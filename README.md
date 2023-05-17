@@ -1,6 +1,6 @@
 <div align="center">
   
-![GitHub Streak](https://streak-stats.demolab.com/?user=lnngn&theme=highcontrast&hide_border=true&hide_longest_streak=true&hide_total_contributions=false&border_radius=0)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lnngn&card_width=700&theme=highcontrast&hide_border=true&hide_longest_streak=true&hide_total_contributions=false&border_radius=0)
   
 </div>
   

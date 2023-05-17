@@ -1,6 +1,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lnngn&card_width=1000&theme=highcontrast&hide_border=true&hide_longest_streak=true&hide_total_contributions=false&border_radius=0)
 <div align="center">
-  
   <a href="">![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=black&color=black&labelColor=94d2bd)</a>
   <a href="">![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=black&color=black&labelColor=e9d8a6)</a>
   <a href="">![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=black&color=black&labelColor=F991CC)</a>

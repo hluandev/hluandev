@@ -1,5 +1,5 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=lnngn&card_width=1000&theme=transparent&hide_border=false&hide_longest_streak=true&hide_total_contributions=false&border_radius=0)
-
+| ![GitHub Streak](https://streak-stats.demolab.com/?user=lnngn&card_width=1000&theme=transparent&hide_border=true&hide_longest_streak=true&hide_total_contributions=false&border_radius=0) |
+| :---: |
 
 <div align='center'>
 

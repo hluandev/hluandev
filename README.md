@@ -1,5 +1,5 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=lnngn&card_width=1000&theme=transparent&background=000000&ring=FFFFFF&fire=FFFFFF&currStreakNum=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&hide_longest_streak=true)
-![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=2b2d42&color=2b2d42&labelColor=ef233c)
+![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=white&labelColor=white)
 ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=2b2d42&color=2b2d42&labelColor=ef233c)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=2b2d42&color=2b2d42&labelColor=ef233c)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=2b2d42&color=2b2d42&labelColor=ef233c)

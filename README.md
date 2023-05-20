@@ -1,4 +1,4 @@
-![GitHub Streak](https://streak-stats.demolab.com/?user=lnngn&card_width=1000&theme=transparent&hide_border=true&border_radius=0&background=212531&ring=34F0E4&fire=34F0E4&sideNums=34F0E4&currStreakLabel=34F0E4&currStreakNum=34F0E4&sideLabels=34F0E4&dates=34F0E4&hide_longest_streak=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=lnngn&card_width=1000&theme=transparent&hide_border=true&border_radius=0&background=18152e&ring=ff008b&fire=ff008b&sideNums=ff008b&currStreakLabel=ff008b&currStreakNum=ff008b&sideLabels=ff008b&dates=ff008b&hide_longest_streak=true)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=ff008b&color=18152e)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=ff008b&color=18152e)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=ff008b&color=18152e)

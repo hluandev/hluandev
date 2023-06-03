@@ -3,7 +3,7 @@
 <div align="center">
   
   ### Environment
-  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge) ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge)
   ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge) 
 ### Frameworks & Libraries

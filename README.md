@@ -1,4 +1,4 @@
-![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&langs_count=5&hide=[Lua, JSON])
+![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&langs_count=5&hide=[])
 
 ### Tools
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge)

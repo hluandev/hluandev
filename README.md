@@ -1,7 +1,3 @@
-
-
-<div align="center">
-  
   ### Tools
  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge) ![Apple](https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge) ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge) ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge)
   ### Languages
@@ -12,8 +8,6 @@
 ### Databases
   
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge) 
-  
- </div>
 
 
 

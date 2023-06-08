@@ -1,4 +1,4 @@
-| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&hide_border=true&theme=transparent&langs_count=4&hide=Lua,JSON) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lnngn&theme=transparent&layout=compact&langs_count=8&hide_border=true&card_width=400) |
+| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&hide_border=true&theme=transparent&langs_count=4&hide=Lua,JSON) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lnngn&theme=transparent&hide_border=true) |
 | :---: | :---: | 
 
 ### Tools

@@ -1,4 +1,4 @@
-#Hi, I'm Luan
+# Hi, I'm Luan
 
 ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&langs_count=5&hide=Lua,JSON)
 

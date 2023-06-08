@@ -1,4 +1,4 @@
-|![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&hide_border=true&theme=transparent&langs_count=4&hide=Lua,JSON)|
+| ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&hide_border=true&theme=transparent&langs_count=4&hide=Lua,JSON) |
 | :---: | :---: | 
 
 ### Tools

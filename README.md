@@ -8,7 +8,7 @@
 ### Frameworks & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&color=003153) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&color=003153) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&color=003153) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&color=003153) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&color=003153) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&color=003153)
 ### Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge) 
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&color=003153) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&color=003153) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&color=003153) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&color=003153) 
 
 
 

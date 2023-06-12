@@ -6,9 +6,9 @@
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&color=000) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&color=000) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&color=000)
 ### Frameworks & Libraries
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&color=000AFF) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&color=000) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&color=000) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&color=000) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&color=000)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&color=000) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&color=000) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&color=000) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&color=000) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&color=000)
 ### Databases
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&color=000AFF) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&color=000AFF) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&color=000AFF) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&color=000AFF) 
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&color=000)
 
 
 

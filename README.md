@@ -1,4 +1,4 @@
-![Luan's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&hide_border=true&theme=dark&langs_count=4&hide=Lua,JSON&border_radius=0) ![My stats](https://github-readme-stats.vercel.app/api?username=lnngn&theme=dark&hide_border=true&hide=contribs&border_radius=0&card_width=300px)
+![Luan's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=lnngn&hide_progress=true&hide_border=true&theme=dark&langs_count=4&hide=Lua,JSON&border_radius=0) ![My stats](https://github-readme-stats.vercel.app/api?username=lnngn&theme=dark&hide_border=true&hide=contribs&border_radius=0&card_width=100px)
 
 
 ### Tools

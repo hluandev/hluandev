@@ -1,6 +1,6 @@
 ![Luan's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hluan_dev&hide_progress=true&hide_border=true&theme=dark&langs_count=4&hide=Lua,JSON&border_radius=0)
 ### Tools
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&color=000) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&color=000)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&color=000) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&color=000)
 ### Languages
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&color=000) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&color=000) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&color=000)
 ### Frameworks & Libraries

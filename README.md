@@ -6,5 +6,11 @@
 ### Frameworks & Libraries
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&color=000) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&color=000) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&color=000) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&color=000) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&color=000)
 
+### Database
+![PlanetScale](https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&color=000)
 
+### SaaS
+![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&color=000) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&color=000)
 
+### ORM
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&color=000)

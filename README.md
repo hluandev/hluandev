@@ -7,4 +7,4 @@
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&color=000) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&color=000)
 
 ### Database
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&color=000)

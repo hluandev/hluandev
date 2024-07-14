@@ -1,4 +1,3 @@
-![Luan's Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=hluandev&hide_progress=true&hide_border=true&theme=dark&langs_count=4&hide=Lua,JSON&border_radius=0)
 ### Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&color=000) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&color=000) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&color=000) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=000) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&color=000)
 ### Frameworks & Libraries
